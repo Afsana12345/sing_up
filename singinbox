@@ -1,0 +1,62 @@
+<doctype html>
+<html>
+<head>
+<title>document</title>
+<Style>
+ div{
+    background-color:pink;
+    }
+</Style>
+</head>
+<body>
+
+
+<div class="singinbox">
+<img src="" class="avatar">
+<h1>sign-up here</h1>
+<from action="">
+ <level for="email">E-mail</level>
+ <br>
+ <input type="email" name="email" placeholder="E-mail"><br>
+ <level for "fname">First name</level>
+ <br>
+ <input type ="text" name="fname" placeholder="First name">
+ <br>
+ <level for="lname">last name</level>
+ <br>
+ <input type="text" name="lname" placeholder="Last name">
+ <br>
+ <level for="gender">Gender</level>
+ <br>
+ <input type="radio" id="male" name"gender" value="male">
+ <level for="male">male</level>
+ <br>
+ <input type="radio" id="female" 
+name="gender" value="female">
+<level for="female">Female</level>
+<br>
+<input type="radio" id="others" name="gender" value="others">
+<lebel for="others">others</label ><br><br>
+<level for="county">County</level>
+<br>
+<input type="text" name="country" placeholder="County"><br>
+<level for="age"> Age</level><br>
+<input type="number" name="age"><br>
+<level for="mobile number">Mobile number </level>
+<input type="number" name=number>
+<br>
+<level for="password">password</level><br>
+<input type="password" name"password" placeholder="password"><br>
+<level for="">Re-type password</level>
+<input type="re-type password" name="re-type password " placeholder="Re-type password"><br>
+<input type="submit" value="submit"><br>
+</form>
+</div>
+</body>
+</html>
+
+
+
+
+
+
